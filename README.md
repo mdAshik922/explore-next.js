@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) [`create-next-app`](https://github.com/
 
 ## Getting Started
 
-First, run the development server:
+explore Next.js:
 
 ```bash
 npm run dev
