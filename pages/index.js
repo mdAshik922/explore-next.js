@@ -21,7 +21,7 @@ export default function Home() {
     <p>We highly recommend you take a look at the Nuxt
        documentation, whether you are new
        or have previous experience with the framework.</p>
- 
+  <a src="https://v3.nuxtjs.org/" target="_blank">Documentation</a>
   </div>
 <div>
 
